@@ -1,0 +1,1686 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "metadata": {
+    "generated_at": "2026-04-28T09:49:00",
+    "source_file": "agilite_xp_source.md",
+    "generator": "graphify-out/sync_outputs.py"
+  },
+  "nodes": [
+    {
+      "id": "agilite_xp_source",
+      "label": "Agilité et XP (source markdown)",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "document"
+    },
+    {
+      "id": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "label": "Processus de génie logiciel — Agilité et Extreme Programming",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 1"
+    },
+    {
+      "id": "agilite_xp_source__page-1__1",
+      "label": "Page 1",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 3"
+    },
+    {
+      "id": "agilite_xp_source__page-2__2",
+      "label": "Page 2",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 9"
+    },
+    {
+      "id": "agilite_xp_source__constats-sur-le-monde-des-affaires__3",
+      "label": "Constats sur le monde des affaires",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 11"
+    },
+    {
+      "id": "agilite_xp_source__page-3__4",
+      "label": "Page 3",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 19"
+    },
+    {
+      "id": "agilite_xp_source__développement-logiciel-rapide__5",
+      "label": "Développement logiciel rapide",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 21"
+    },
+    {
+      "id": "agilite_xp_source__page-4__6",
+      "label": "Page 4",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 32"
+    },
+    {
+      "id": "agilite_xp_source__développement-logiciel-rapide__7",
+      "label": "Développement logiciel rapide",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 34"
+    },
+    {
+      "id": "agilite_xp_source__page-5__8",
+      "label": "Page 5",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 41"
+    },
+    {
+      "id": "agilite_xp_source__raison-dêtre-des-processus-disciplinés__9",
+      "label": "Raison d’être des processus disciplinés",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 43"
+    },
+    {
+      "id": "agilite_xp_source__page-6__10",
+      "label": "Page 6",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 51"
+    },
+    {
+      "id": "agilite_xp_source__le-coût-des-approches-disciplinées__11",
+      "label": "Le coût des approches disciplinées",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 53"
+    },
+    {
+      "id": "agilite_xp_source__page-7__12",
+      "label": "Page 7",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 58"
+    },
+    {
+      "id": "agilite_xp_source__origine-de-lagilité__13",
+      "label": "Origine de l’agilité",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 60"
+    },
+    {
+      "id": "agilite_xp_source__page-8__14",
+      "label": "Page 8",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 65"
+    },
+    {
+      "id": "agilite_xp_source__les-valeurs-de-lagilité-selon-le-manifeste__15",
+      "label": "Les valeurs de l’Agilité selon le manifeste",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 67"
+    },
+    {
+      "id": "agilite_xp_source__page-9__16",
+      "label": "Page 9",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 74"
+    },
+    {
+      "id": "agilite_xp_source__les-principes-de-lagilité-selon-le-manifeste__17",
+      "label": "Les principes de l’Agilité selon le manifeste",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 76"
+    },
+    {
+      "id": "agilite_xp_source__page-10__18",
+      "label": "Page 10",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 82"
+    },
+    {
+      "id": "agilite_xp_source__les-principes-de-lagilité-selon-le-manifeste__19",
+      "label": "Les principes de l’Agilité selon le manifeste",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 84"
+    },
+    {
+      "id": "agilite_xp_source__page-11__20",
+      "label": "Page 11",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 90"
+    },
+    {
+      "id": "agilite_xp_source__les-principes-de-lagilité-selon-le-manifeste__21",
+      "label": "Les principes de l’Agilité selon le manifeste",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 92"
+    },
+    {
+      "id": "agilite_xp_source__page-12__22",
+      "label": "Page 12",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 98"
+    },
+    {
+      "id": "agilite_xp_source__les-principes-de-lagilité-selon-le-manifeste__23",
+      "label": "Les principes de l’Agilité selon le manifeste",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 100"
+    },
+    {
+      "id": "agilite_xp_source__page-13__24",
+      "label": "Page 13",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 106"
+    },
+    {
+      "id": "agilite_xp_source__développement-agile-de-logiciels__25",
+      "label": "Développement agile de logiciels",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 108"
+    },
+    {
+      "id": "agilite_xp_source__page-14__26",
+      "label": "Page 14",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 114"
+    },
+    {
+      "id": "agilite_xp_source__panorama-agile__27",
+      "label": "Panorama agile",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 116"
+    },
+    {
+      "id": "agilite_xp_source__page-15__28",
+      "label": "Page 15",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 130"
+    },
+    {
+      "id": "agilite_xp_source__agile-vs-discipliné__29",
+      "label": "Agile vs. Discipliné",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 132"
+    },
+    {
+      "id": "agilite_xp_source__page-16__30",
+      "label": "Page 16",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 140"
+    },
+    {
+      "id": "agilite_xp_source__synthèse-des-principes-agiles__31",
+      "label": "Synthèse des principes agiles",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 142"
+    },
+    {
+      "id": "agilite_xp_source__page-17__32",
+      "label": "Page 17",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 150"
+    },
+    {
+      "id": "agilite_xp_source__prétentions-de-lagilité__33",
+      "label": "Prétentions de l’agilité",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 152"
+    },
+    {
+      "id": "agilite_xp_source__page-18__34",
+      "label": "Page 18",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 160"
+    },
+    {
+      "id": "agilite_xp_source__les-méthodes-agiles__35",
+      "label": "Les méthodes agiles",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 162"
+    },
+    {
+      "id": "agilite_xp_source__page-19__36",
+      "label": "Page 19",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 168"
+    },
+    {
+      "id": "agilite_xp_source__les-méthodes-agiles-difficultés-dapplication__37",
+      "label": "Les méthodes agiles — Difficultés d’application",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 170"
+    },
+    {
+      "id": "agilite_xp_source__page-20__38",
+      "label": "Page 20",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 177"
+    },
+    {
+      "id": "agilite_xp_source__les-méthodes-agiles-difficultés-dapplication__39",
+      "label": "Les méthodes agiles — Difficultés d’application",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 179"
+    },
+    {
+      "id": "agilite_xp_source__page-21__40",
+      "label": "Page 21",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 185"
+    },
+    {
+      "id": "agilite_xp_source__les-méthodes-agiles__41",
+      "label": "Les méthodes agiles",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 187"
+    },
+    {
+      "id": "agilite_xp_source__page-22__42",
+      "label": "Page 22",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 191"
+    },
+    {
+      "id": "agilite_xp_source__êtes-vous-agiles__43",
+      "label": "Êtes-vous agiles?",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 193"
+    },
+    {
+      "id": "agilite_xp_source__page-23__44",
+      "label": "Page 23",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 197"
+    },
+    {
+      "id": "agilite_xp_source__carte-des-processus-logiciel__45",
+      "label": "Carte des processus logiciel",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 199"
+    },
+    {
+      "id": "agilite_xp_source__page-24__46",
+      "label": "Page 24",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 216"
+    },
+    {
+      "id": "agilite_xp_source__extreme-programming__47",
+      "label": "eXtreme Programming",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 218"
+    },
+    {
+      "id": "agilite_xp_source__page-25__48",
+      "label": "Page 25",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 228"
+    },
+    {
+      "id": "agilite_xp_source__extreme-programming-droits-du-client__49",
+      "label": "eXtreme Programming — Droits du client",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 230"
+    },
+    {
+      "id": "agilite_xp_source__page-26__50",
+      "label": "Page 26",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 238"
+    },
+    {
+      "id": "agilite_xp_source__extreme-programming-devoirs-du-client__51",
+      "label": "eXtreme Programming — Devoirs du client",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 240"
+    },
+    {
+      "id": "agilite_xp_source__page-27__52",
+      "label": "Page 27",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 248"
+    },
+    {
+      "id": "agilite_xp_source__extreme-programming-droits-du-développeur__53",
+      "label": "eXtreme Programming — Droits du développeur",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 250"
+    },
+    {
+      "id": "agilite_xp_source__page-28__54",
+      "label": "Page 28",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 257"
+    },
+    {
+      "id": "agilite_xp_source__extreme-programming-devoirs-du-développeur__55",
+      "label": "eXtreme Programming — Devoirs du développeur",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 259"
+    },
+    {
+      "id": "agilite_xp_source__page-29__56",
+      "label": "Page 29",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 265"
+    },
+    {
+      "id": "agilite_xp_source__extreme-programming__57",
+      "label": "eXtreme Programming",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 267"
+    },
+    {
+      "id": "agilite_xp_source__page-30__58",
+      "label": "Page 30",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 273"
+    },
+    {
+      "id": "agilite_xp_source__extreme-programming__59",
+      "label": "eXtreme Programming",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 275"
+    },
+    {
+      "id": "agilite_xp_source__page-31__60",
+      "label": "Page 31",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 279"
+    },
+    {
+      "id": "agilite_xp_source__pratiques-xp-vue-client__61",
+      "label": "Pratiques XP — Vue Client",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 281"
+    },
+    {
+      "id": "agilite_xp_source__équipe-tout-entière__62",
+      "label": "Équipe tout entière",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 283"
+    },
+    {
+      "id": "agilite_xp_source__page-32__63",
+      "label": "Page 32",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 290"
+    },
+    {
+      "id": "agilite_xp_source__pratiques-xp-vue-client__64",
+      "label": "Pratiques XP — Vue Client",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 292"
+    },
+    {
+      "id": "agilite_xp_source__tests-client__65",
+      "label": "Tests client",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 294"
+    },
+    {
+      "id": "agilite_xp_source__page-33__66",
+      "label": "Page 33",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 300"
+    },
+    {
+      "id": "agilite_xp_source__pratiques-xp-vue-client__67",
+      "label": "Pratiques XP — Vue Client",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 302"
+    },
+    {
+      "id": "agilite_xp_source__jeu-de-planification__68",
+      "label": "Jeu de planification",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 304"
+    },
+    {
+      "id": "agilite_xp_source__page-34__69",
+      "label": "Page 34",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 310"
+    },
+    {
+      "id": "agilite_xp_source__pratiques-xp-vue-client__70",
+      "label": "Pratiques XP — Vue Client",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 312"
+    },
+    {
+      "id": "agilite_xp_source__livraisons-fréquentes__71",
+      "label": "Livraisons fréquentes",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 314"
+    },
+    {
+      "id": "agilite_xp_source__page-35__72",
+      "label": "Page 35",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 321"
+    },
+    {
+      "id": "agilite_xp_source__pratiques-xp-vue-équipe__73",
+      "label": "Pratiques XP — Vue Équipe",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 323"
+    },
+    {
+      "id": "agilite_xp_source__page-36__74",
+      "label": "Page 36",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 329"
+    },
+    {
+      "id": "agilite_xp_source__pratiques-xp-vue-équipe__75",
+      "label": "Pratiques XP — Vue Équipe",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 331"
+    },
+    {
+      "id": "agilite_xp_source__page-37__76",
+      "label": "Page 37",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 338"
+    },
+    {
+      "id": "agilite_xp_source__pratiques-xp-vue-programmeur__77",
+      "label": "Pratiques XP — Vue Programmeur",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 340"
+    },
+    {
+      "id": "agilite_xp_source__page-38__78",
+      "label": "Page 38",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 346"
+    },
+    {
+      "id": "agilite_xp_source__pratiques-xp-vue-programmeur__79",
+      "label": "Pratiques XP — Vue Programmeur",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 348"
+    },
+    {
+      "id": "agilite_xp_source__page-39__80",
+      "label": "Page 39",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 356"
+    },
+    {
+      "id": "agilite_xp_source__extreme-programming-lunicité-de-xp__81",
+      "label": "eXtreme Programming — L’unicité de XP",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 358"
+    },
+    {
+      "id": "agilite_xp_source__page-40__82",
+      "label": "Page 40",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 366"
+    },
+    {
+      "id": "agilite_xp_source__cycle-de-développement-dxp__83",
+      "label": "Cycle de développement d’XP",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 368"
+    },
+    {
+      "id": "agilite_xp_source__page-41__84",
+      "label": "Page 41",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 377"
+    },
+    {
+      "id": "agilite_xp_source__xp-exemple-de-récit-utilisateur__85",
+      "label": "XP : exemple de récit utilisateur",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 379"
+    },
+    {
+      "id": "agilite_xp_source__page-42__86",
+      "label": "Page 42",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 383"
+    },
+    {
+      "id": "agilite_xp_source__xp-exemple-de-tâche__87",
+      "label": "XP : exemple de tâche",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 385"
+    },
+    {
+      "id": "agilite_xp_source__page-43__88",
+      "label": "Page 43",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 389"
+    },
+    {
+      "id": "agilite_xp_source__xp-exemple-de-cas-de-test__89",
+      "label": "XP : exemple de cas de test",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 391"
+    },
+    {
+      "id": "agilite_xp_source__page-44__90",
+      "label": "Page 44",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 395"
+    },
+    {
+      "id": "agilite_xp_source__problèmes-avec-le-tdd__91",
+      "label": "Problèmes avec le TDD",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 397"
+    },
+    {
+      "id": "agilite_xp_source__page-45__92",
+      "label": "Page 45",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 404"
+    },
+    {
+      "id": "agilite_xp_source__pratique-de-la-programmation-par-paire__93",
+      "label": "Pratique de la programmation par paire",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 406"
+    },
+    {
+      "id": "agilite_xp_source__page-46__94",
+      "label": "Page 46",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 414"
+    },
+    {
+      "id": "agilite_xp_source__choisir-entre-discipliné-et-agile__95",
+      "label": "Choisir entre discipliné et agile",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 416"
+    },
+    {
+      "id": "agilite_xp_source__page-47__96",
+      "label": "Page 47",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 423"
+    },
+    {
+      "id": "agilite_xp_source__choisir-entre-discipliné-et-agile__97",
+      "label": "Choisir entre discipliné et agile",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 425"
+    },
+    {
+      "id": "agilite_xp_source__critères-de-décision__98",
+      "label": "Critères de décision",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 427"
+    },
+    {
+      "id": "agilite_xp_source__page-48__99",
+      "label": "Page 48",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 434"
+    },
+    {
+      "id": "agilite_xp_source__choisir-entre-discipliné-et-agile__100",
+      "label": "Choisir entre discipliné et agile",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 436"
+    },
+    {
+      "id": "agilite_xp_source__page-49__101",
+      "label": "Page 49",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 442"
+    },
+    {
+      "id": "agilite_xp_source__choisir-entre-discipliné-et-agile__102",
+      "label": "Choisir entre discipliné et agile",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 444"
+    },
+    {
+      "id": "agilite_xp_source__page-50__103",
+      "label": "Page 50",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 451"
+    },
+    {
+      "id": "agilite_xp_source__suppositions-des-approches-agiles__104",
+      "label": "Suppositions des approches agiles",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 453"
+    },
+    {
+      "id": "agilite_xp_source__page-51__105",
+      "label": "Page 51",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 462"
+    },
+    {
+      "id": "agilite_xp_source__suppositions-des-approches-agiles__106",
+      "label": "Suppositions des approches agiles",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 464"
+    },
+    {
+      "id": "agilite_xp_source__page-52__107",
+      "label": "Page 52",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 474"
+    },
+    {
+      "id": "agilite_xp_source__lagilité-et-les-grands-projets__108",
+      "label": "L’agilité et les grands projets",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 476"
+    },
+    {
+      "id": "agilite_xp_source__page-53__109",
+      "label": "Page 53",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 483"
+    },
+    {
+      "id": "agilite_xp_source__lagilité-et-les-grands-projets__110",
+      "label": "L’agilité et les grands projets",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 485"
+    },
+    {
+      "id": "agilite_xp_source__page-54__111",
+      "label": "Page 54",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 493"
+    },
+    {
+      "id": "agilite_xp_source__lagilité-et-les-grands-projets__112",
+      "label": "L’agilité et les grands projets",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 495"
+    },
+    {
+      "id": "agilite_xp_source__page-55__113",
+      "label": "Page 55",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 501"
+    },
+    {
+      "id": "agilite_xp_source__développement-logiciel-et-le-taylorisme__114",
+      "label": "Développement logiciel et le taylorisme",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 503"
+    },
+    {
+      "id": "agilite_xp_source__page-56__115",
+      "label": "Page 56",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 507"
+    },
+    {
+      "id": "agilite_xp_source__développement-logiciel-et-la-méthode-toyota__116",
+      "label": "Développement logiciel et la méthode Toyota",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 509"
+    },
+    {
+      "id": "agilite_xp_source__page-57__117",
+      "label": "Page 57",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 513"
+    },
+    {
+      "id": "agilite_xp_source__conclusion__118",
+      "label": "Conclusion",
+      "file_type": "paper",
+      "source_file": "agilite_xp_source.md",
+      "source_location": "line 515"
+    }
+  ],
+  "links": [
+    {
+      "source": "agilite_xp_source",
+      "target": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 1"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-1__1",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-2__2",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-2__2",
+      "target": "agilite_xp_source__constats-sur-le-monde-des-affaires__3",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-3__4",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-3__4",
+      "target": "agilite_xp_source__développement-logiciel-rapide__5",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-4__6",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-4__6",
+      "target": "agilite_xp_source__développement-logiciel-rapide__7",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-5__8",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-5__8",
+      "target": "agilite_xp_source__raison-dêtre-des-processus-disciplinés__9",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-6__10",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-6__10",
+      "target": "agilite_xp_source__le-coût-des-approches-disciplinées__11",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-7__12",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-7__12",
+      "target": "agilite_xp_source__origine-de-lagilité__13",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-8__14",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-8__14",
+      "target": "agilite_xp_source__les-valeurs-de-lagilité-selon-le-manifeste__15",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-9__16",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-9__16",
+      "target": "agilite_xp_source__les-principes-de-lagilité-selon-le-manifeste__17",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-10__18",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-10__18",
+      "target": "agilite_xp_source__les-principes-de-lagilité-selon-le-manifeste__19",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-11__20",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-11__20",
+      "target": "agilite_xp_source__les-principes-de-lagilité-selon-le-manifeste__21",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-12__22",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-12__22",
+      "target": "agilite_xp_source__les-principes-de-lagilité-selon-le-manifeste__23",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-13__24",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-13__24",
+      "target": "agilite_xp_source__développement-agile-de-logiciels__25",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-14__26",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-14__26",
+      "target": "agilite_xp_source__panorama-agile__27",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-15__28",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-15__28",
+      "target": "agilite_xp_source__agile-vs-discipliné__29",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-16__30",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-16__30",
+      "target": "agilite_xp_source__synthèse-des-principes-agiles__31",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-17__32",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-17__32",
+      "target": "agilite_xp_source__prétentions-de-lagilité__33",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-18__34",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-18__34",
+      "target": "agilite_xp_source__les-méthodes-agiles__35",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-19__36",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-19__36",
+      "target": "agilite_xp_source__les-méthodes-agiles-difficultés-dapplication__37",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-20__38",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-20__38",
+      "target": "agilite_xp_source__les-méthodes-agiles-difficultés-dapplication__39",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-21__40",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-21__40",
+      "target": "agilite_xp_source__les-méthodes-agiles__41",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-22__42",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-22__42",
+      "target": "agilite_xp_source__êtes-vous-agiles__43",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-23__44",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-23__44",
+      "target": "agilite_xp_source__carte-des-processus-logiciel__45",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-24__46",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-24__46",
+      "target": "agilite_xp_source__extreme-programming__47",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-25__48",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-25__48",
+      "target": "agilite_xp_source__extreme-programming-droits-du-client__49",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-26__50",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-26__50",
+      "target": "agilite_xp_source__extreme-programming-devoirs-du-client__51",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-27__52",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-27__52",
+      "target": "agilite_xp_source__extreme-programming-droits-du-développeur__53",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-28__54",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-28__54",
+      "target": "agilite_xp_source__extreme-programming-devoirs-du-développeur__55",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-29__56",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-29__56",
+      "target": "agilite_xp_source__extreme-programming__57",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-30__58",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-30__58",
+      "target": "agilite_xp_source__extreme-programming__59",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-31__60",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-31__60",
+      "target": "agilite_xp_source__pratiques-xp-vue-client__61",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__pratiques-xp-vue-client__61",
+      "target": "agilite_xp_source__équipe-tout-entière__62",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 4"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-32__63",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-32__63",
+      "target": "agilite_xp_source__pratiques-xp-vue-client__64",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__pratiques-xp-vue-client__64",
+      "target": "agilite_xp_source__tests-client__65",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 4"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-33__66",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-33__66",
+      "target": "agilite_xp_source__pratiques-xp-vue-client__67",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__pratiques-xp-vue-client__67",
+      "target": "agilite_xp_source__jeu-de-planification__68",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 4"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-34__69",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-34__69",
+      "target": "agilite_xp_source__pratiques-xp-vue-client__70",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__pratiques-xp-vue-client__70",
+      "target": "agilite_xp_source__livraisons-fréquentes__71",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 4"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-35__72",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-35__72",
+      "target": "agilite_xp_source__pratiques-xp-vue-équipe__73",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-36__74",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-36__74",
+      "target": "agilite_xp_source__pratiques-xp-vue-équipe__75",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-37__76",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-37__76",
+      "target": "agilite_xp_source__pratiques-xp-vue-programmeur__77",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-38__78",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-38__78",
+      "target": "agilite_xp_source__pratiques-xp-vue-programmeur__79",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-39__80",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-39__80",
+      "target": "agilite_xp_source__extreme-programming-lunicité-de-xp__81",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-40__82",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-40__82",
+      "target": "agilite_xp_source__cycle-de-développement-dxp__83",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-41__84",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-41__84",
+      "target": "agilite_xp_source__xp-exemple-de-récit-utilisateur__85",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-42__86",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-42__86",
+      "target": "agilite_xp_source__xp-exemple-de-tâche__87",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-43__88",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-43__88",
+      "target": "agilite_xp_source__xp-exemple-de-cas-de-test__89",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-44__90",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-44__90",
+      "target": "agilite_xp_source__problèmes-avec-le-tdd__91",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-45__92",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-45__92",
+      "target": "agilite_xp_source__pratique-de-la-programmation-par-paire__93",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-46__94",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-46__94",
+      "target": "agilite_xp_source__choisir-entre-discipliné-et-agile__95",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-47__96",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-47__96",
+      "target": "agilite_xp_source__choisir-entre-discipliné-et-agile__97",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__choisir-entre-discipliné-et-agile__97",
+      "target": "agilite_xp_source__critères-de-décision__98",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 4"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-48__99",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-48__99",
+      "target": "agilite_xp_source__choisir-entre-discipliné-et-agile__100",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-49__101",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-49__101",
+      "target": "agilite_xp_source__choisir-entre-discipliné-et-agile__102",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-50__103",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-50__103",
+      "target": "agilite_xp_source__suppositions-des-approches-agiles__104",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-51__105",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-51__105",
+      "target": "agilite_xp_source__suppositions-des-approches-agiles__106",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-52__107",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-52__107",
+      "target": "agilite_xp_source__lagilité-et-les-grands-projets__108",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-53__109",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-53__109",
+      "target": "agilite_xp_source__lagilité-et-les-grands-projets__110",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-54__111",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-54__111",
+      "target": "agilite_xp_source__lagilité-et-les-grands-projets__112",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-55__113",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-55__113",
+      "target": "agilite_xp_source__développement-logiciel-et-le-taylorisme__114",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-56__115",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-56__115",
+      "target": "agilite_xp_source__développement-logiciel-et-la-méthode-toyota__116",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    },
+    {
+      "source": "agilite_xp_source__processus-de-génie-logiciel-agilité-et-extreme-programming__0",
+      "target": "agilite_xp_source__page-57__117",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 2"
+    },
+    {
+      "source": "agilite_xp_source__page-57__117",
+      "target": "agilite_xp_source__conclusion__118",
+      "type": "contains",
+      "weight": 1.0,
+      "justification": "Heading level 3"
+    }
+  ]
+}
